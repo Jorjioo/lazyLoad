@@ -1,0 +1,94 @@
+.div {
+	width: 55%;
+	align-items: center;
+	margin: auto;
+	background-color: #DDD8D8;
+	
+}
+
+.blur {
+	width: 360px;
+	height: 400px;
+}
+
+
+.img {
+	text-align: center;
+} 
+
+.div1 {
+	background-color: #9D899E;
+	align-items: center;
+}
+
+.p {
+	padding: 5%;
+	font-family: 'Roboto Condensed', sans-serif;
+	letter-spacing: 1px;
+}
+
+.h1 {
+	font-family: 'Oswald', sans-serif;;
+	text-align: center;
+	color: #45374A;
+	font-size: 50px;
+}
+
+.h11 {
+	padding: 1px;
+}
+
+.h22 {
+	font-family: 'Oswald', sans-serif;;
+	text-align: center;
+	color: #45374A;
+	font-size: 15px;
+	letter-spacing: 1px;
+}
+
+.h2 {
+	margin-bottom: 10px;
+}
+
+.a {
+	color: #45374A;
+	text-decoration: none;
+}
+
+.butt {
+	background-color: transparent;
+	width: 100px;
+	height: 35px;
+	margin-top: 40px;
+	cursor: pointer;
+	border: 2px solid #45374A;
+}
+
+.butt:hover {
+	background-color: #45374A;
+	color: white;
+}
+
+/*.a:hover {
+	color: #DDD8D8;
+}*/
+
+.add-cash {
+    text-align: center;
+    vertical-align: middle;
+}
+
+.btn {
+border: 2px solid #45374A;
+width: 120px;
+height: 35px;
+font-size: 15px;
+display: inline;
+transition: 0.3s ease-in;
+background-color: #9D899E;
+color: transparent;
+}
+
+.aa {
+	text-decoration: none;
+}
